@@ -1,6 +1,5 @@
 #Intro Project for Udacity Nanodegree
-
-The goal of this project is replicating a pdf design mockup provided for us by Udacity and build a responsive portfolio.
+The goal of this project is creating and editing simple HTML and CSS files and get familiar with project submission and reviewing feedback we receive from the evaluator.
 
 #Live Site:
 http://goo.gl/9JoSab
